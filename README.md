@@ -1,4 +1,4 @@
-![background.jpg](https://github.com/user-attachments/assets/e20cd118-de73-4213-baed-1c0d6d30ee13)
+![background](https://github.com/user-attachments/assets/e20cd118-de73-4213-baed-1c0d6d30ee13)
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
