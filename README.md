@@ -57,8 +57,8 @@ a:hover {
 </head>
 
 <body>
-  <a class="instagram" href="[https://www.instagram.com](https://www.instagram.com/luxefashionsquare?igsh=bDk4OTA5N3NsbGRv)">Instagram</a>
-  <a class="facebook" href="[https://www.facebook.com](https://www.facebook.com/share/19jkXdFubo/?mibextid=wwXIfr)">Facebook</a>
-  <a class="tiktok" href="[https://www.tiktok.com](https://www.tiktok.com/@luxefashionsqua?_t=ZS-90xUktYsDeD&_r=1)">TikTok</a>
+  <a class="instagram" href="https://www.instagram.com/luxefashionsquare?igsh=bDk4OTA5N3NsbGRv">Instagram</a>
+  <a class="facebook" href="https://www.facebook.com/share/1UYjBRS1mt/?mibextid=wwXIfr">Facebook</a>
+  <a class="tiktok" href="https://www.tiktok.com/@luxefashionsqua?_t=ZS-90xUktYsDeD&_r=1">TikTok</a>
 </body>
 </html>
