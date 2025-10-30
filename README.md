@@ -4,12 +4,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Luxe Fashion Square</title>
+<title>Luxe Fashion</title>
 <style>
 body {
   font-family: Tahoma, sans-serif;
   text-align: center;
-  background: url('shop.jpg') no-repeat center center fixed;
+  background: url('background.jpg') no-repeat center center fixed;
   background-size: cover;
   padding: 40px;
   color: white;
@@ -18,7 +18,6 @@ body {
   margin: 0;
 }
 
-/* طبقة شفافة فوق الصورة */
 body::before {
   content: "";
   position: absolute;
@@ -26,22 +25,13 @@ body::before {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0,0,0,0.55); /* درجة التعتيم */
+  background: rgba(0,0,0,0.55);
   z-index: 0;
 }
 
-h1, a {
+a {
   position: relative;
   z-index: 1;
-  text-shadow: 0 0 8px rgba(0,0,0,0.6);
-}
-
-h1 {
-  font-size: 36px;
-  margin-bottom: 30px;
-}
-
-a {
   display: block;
   margin: 16px auto;
   padding: 14px 20px;
@@ -52,14 +42,13 @@ a {
   font-size: 18px;
   font-weight: bold;
   transition: 0.3s ease;
+  text-shadow: 0 0 6px rgba(0,0,0,0.6);
 }
 
-/* ألوان الأزرار */
 .instagram { background-color: #E4405F; }
 .facebook { background-color: #1877F2; }
 .tiktok { background-color: #000000; }
 
-/* تأثير التحويم */
 a:hover {
   transform: scale(1.05);
   opacity: 0.9;
@@ -68,9 +57,8 @@ a:hover {
 </head>
 
 <body>
-  <h1>Luxe Fashion Square</h1>
-  <a class="instagram" href="https://www.instagram.com">Instagram</a>
-  <a class="facebook" href="https://www.facebook.com">Facebook</a>
-  <a class="tiktok" href="https://www.tiktok.com">TikTok</a>
+  <a class="instagram" href="[https://www.instagram.com](https://www.instagram.com/luxefashionsquare?igsh=bDk4OTA5N3NsbGRv)">Instagram</a>
+  <a class="facebook" href="[https://www.facebook.com](https://www.facebook.com/share/19jkXdFubo/?mibextid=wwXIfr)">Facebook</a>
+  <a class="tiktok" href="[https://www.tiktok.com](https://www.tiktok.com/@luxefashionsqua?_t=ZS-90xUktYsDeD&_r=1)">TikTok</a>
 </body>
 </html>
